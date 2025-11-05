@@ -99,14 +99,9 @@ Certifique-se de permitir o acesso à câmera no navegador e que os modelos do `
 https://cdn.jsdelivr.net/npm/@vladmandic/face-api/model
 ```
 
-## Capturas de Tela
-### Cadastro Biométrico
-![Cadastro](path/to/register-screenshot.png)
-### Verificação Facial
-![Verificação](path/to/verify-screenshot.png)
-
 ## Contribuição
 Contribuições são bem-vindas! Para solicitar mudanças, abra um PR ou issue neste repositório.
 
 ## Licença
 Este projeto está licenciado sob a licença MIT.
+
