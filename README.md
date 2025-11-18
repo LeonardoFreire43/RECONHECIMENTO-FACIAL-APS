@@ -75,7 +75,7 @@ Este projeto implementa um **Sistema de Reconhecimento Facial** para controle de
 ### Passos
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/LeonardoFreire43/APS-RECONHECIMENTO-FACIAL.git
+    git clone https://github.com/LeonardoFreire43/RECONHECIMENTO-FACIAL-APS
     cd APS-RECONHECIMENTO-FACIAL
     ```
 2. **Instale as dependências**:
@@ -106,3 +106,4 @@ Contribuições são bem-vindas! Para solicitar mudanças, abra um PR ou issue n
 Este projeto está licenciado sob a licença MIT.
 
 #
+
